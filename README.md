@@ -156,4 +156,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Screenshots
 
-Add screenshots of your application here to showcase its features and design.
+<div align='center'>
+   
+   <img width="958" alt="chat" src="https://github.com/user-attachments/assets/c83eae3d-a2dd-4882-98a5-6db327235747" />
+
+</div>
